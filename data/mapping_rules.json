@@ -1,0 +1,101 @@
+{
+  "header-test-1": {
+    "0f7d1110482cf7cbfd31ac93993021595012f470": {
+      "Planned Order": "PlannedOrder"
+    }
+  },
+  "header-test-1-threshold": {
+    "0f7d1110482cf7cbfd31ac93993021595012f470": {
+      "Planned Order": "PlannedOrder",
+      "Material Number": "Material",
+      "Plant": "ProductionPlant",
+      "Qty": "TotalQuantity"
+    }
+  },
+  "postman-check": {
+    "0f7d1110482cf7cbfd31ac93993021595012f470": {
+      "Planned Order": "PlannedOrder",
+      "Material Number": "Material",
+      "Plant": "ProductionPlant",
+      "Qty": "TotalQuantity"
+    }
+  },
+  "postman-test-1": {
+    "0f7d1110482cf7cbfd31ac93993021595012f470": {
+      "Planned Order": "PlannedOrder",
+      "Material Number": "Material",
+      "Plant": "ProductionPlant",
+      "Qty": "TotalQuantity"
+    }
+  },
+  "aicore-check": {
+    "85300c78c590e994b0b3d289c1dc5891cd91b8bb": {
+      "Material Number": "Material",
+      "Plant": "ProductionPlant",
+      "Qty": "TotalQuantity"
+    }
+  },
+  "aicore-live-check-1": {
+    "30c63a9fe615f708cc188a484b7010a3b8c5a350": {
+      "mat code": "SalesOrder",
+      "prod plant": "ProductionPlant",
+      "order qty": "TotalQuantity"
+    }
+  },
+  "aicore-live-check-ssl-bypass-1": {
+    "a6ec879f87174b6e7570a6b1012569495cfc81f1": {
+      "material number source": "MaterialProcurementType",
+      "plant code source": "PlannedOrder",
+      "planned qty source": "PlannedOrder"
+    }
+  },
+  "aicore-live-check-ca-bundle-1": {
+    "a6ec879f87174b6e7570a6b1012569495cfc81f1": {
+      "material number source": "MaterialProcurementType",
+      "plant code source": "PlannedOrder",
+      "planned qty source": "PlannedOrder"
+    }
+  },
+  "aicore-model-gpt41mini-check": {
+    "a6ec879f87174b6e7570a6b1012569495cfc81f1": {
+      "material number source": "MaterialProcurementType",
+      "plant code source": "PlannedOrder",
+      "planned qty source": "PlannedOrder"
+    }
+  },
+  "aicore-active-e2e-check": {
+    "a6ec879f87174b6e7570a6b1012569495cfc81f1": {
+      "material number source": "MaterialProcurementType",
+      "plant code source": "PlannedOrder",
+      "planned qty source": "PlannedOrder"
+    }
+  },
+  "aicore-active-e2e-check-2": {
+    "a6ec879f87174b6e7570a6b1012569495cfc81f1": {
+      "material number source": "MaterialProcurementType",
+      "plant code source": "PlannedOrder",
+      "planned qty source": "PlannedOrder"
+    }
+  },
+  "aicore-active-final-check": {
+    "a6ec879f87174b6e7570a6b1012569495cfc81f1": {
+      "material number source": "Material",
+      "plant code source": "ProductionPlant",
+      "planned qty source": "TotalQuantity"
+    }
+  },
+  "postman-test": {
+    "94cc73f5d66ff4003d6fba7bdbad7520531edd93": {
+      "Material Number": "Material",
+      "Plant": "ProductionPlant",
+      "Order Qty": "TotalQuantity",
+      "Start Date": "PlndOrderPlannedStartDate"
+    },
+    "500cba72cf5e5d3f3ecfbe098d2c361f5004516e": {
+      "Material Number": "Material",
+      "Plant": "ProductionPlant",
+      "Order Qty": "TotalQuantity",
+      "Start Date": "PlndOrderPlannedStartDate"
+    }
+  }
+}
